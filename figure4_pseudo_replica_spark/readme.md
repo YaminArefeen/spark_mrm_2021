@@ -17,5 +17,6 @@ In the Matlab script **evaluate_snr_proxy.m** set the variable **accell** to the
 
 Using these three scripts and varying the chosen acceleration to **Rx = 4,5,6** produced Figure 4 below:
 
+![Alt text](../docs/images/noisemap_gfactor_attempt.png?raw=True "pseudo-relica")
 
 
