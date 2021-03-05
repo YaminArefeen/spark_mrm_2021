@@ -11,3 +11,9 @@ Self-contained code and instructions to generate each of the figures can be foun
 Applies a process similar to the pseudo replica technique desribed in "Comprehensive Quantification of Signal-to-Noise Ratio and g-Factor for Image-Based and k-Space-Based Parallel Imaging Reconstructions" to compare GRAPPA and SPARK reconstructions on a single axial slice from an MPRAGE acquisition.  
 
 ![Alt text](docs/images/noisemap_gfactor_attempt.png?raw=True "pseudo-relica")
+
+## Figure 2: Spark with LORAKS and VC GRAPPA
+
+SPARK applied to LORAKS and virtual-coil GRAPPA on a single axial slice from an MPRAGE acquisition; demonstrating how SPARK synergizes with advanced 2D parallel imaging techniques.
+
+![Alt text](docs/images/potential_figure_R5R6_loraks_vc.png?raw=True "loraksvc")
