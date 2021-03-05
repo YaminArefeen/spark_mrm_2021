@@ -10,3 +10,8 @@ Following an analagous procedure using the script **prep_loraks_forspark.m** wil
 
 Running the notebooks **loraks_spark.ipynb** and **svcgrappa_spark.ipynb** will generate and save results when applying SPARK to LORAKS and virtual-coil GRAPPA reconstructions respectively.
 
+### Figure in Manuscript
+
+Following the above procedure while varying **Rx** produces the results for Figure 5 in the manuscript:
+
+![Alt text](../docs/images/potential_figure_R5R6_loraks_vc.png?raw=True "loraksvc")
