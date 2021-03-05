@@ -1,0 +1,7 @@
+figure5_vcgrappa_loraks_spark/forspark/
+figure5_vcgrappa_loraks_spark/results/
+figure6_3d_integrated_acs/data/kspace*
+figure7_3d_external_acs/data/kspace*
+figure8_wave_encoding_2d/data/coils*
+figure8_wave_encoding_2d/data/kspace*
+figure9_wave_encoding_3d_slicegroup/data/img*
