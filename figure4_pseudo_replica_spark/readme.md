@@ -1,1 +1,2 @@
-Re-creates figure 4.
+## Guide to Generating Figure 4:
+
