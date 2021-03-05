@@ -1,1 +1,12 @@
-## Guide for Generating Results 
+## Guide to performing Experiments for Figure 5
+
+#### 1.   Preparing data for SPARK
+
+To prepare data for virtual-coil GRAPPA, consider the script **prep_vgrappa_forspark.m"**.  Adjust the variable **Rx** to the desired 1D acceleration.  Then, running the script will generate and save the necessary data for SPRAK.  
+
+Following an analagous procedure using the script **prep_loraks_forspark.m** will generate the appropriate data for LORAKS with SPARK.
+
+#### 2.   Performing the SPARK Correction
+
+Running the notebooks **loraks_spark.ipynb** and **svcgrappa_spark.ipynb** will generate and save results when applying SPARK to LORAKS and virtual-coil GRAPPA reconstructions respectively.
+
