@@ -1,4 +1,4 @@
-# Code to Replicate Figures in "Scan-Specific Artifact Reduction in K-space (SPARK) Neural Networks Syngerize with Physics-based Reconstruction to Accelerate "MRI" 
+# Code to Replicate Figures in "Scan-Specific Artifact Reduction in K-space (SPARK) Neural Networks Syngerize with Physics-based Reconstruction to Accelerate MRI" 
 
 Written by Yamin Arefeen.  Please feel free to contact me and ask questions through email at yarefeen@mit.edu.
 
