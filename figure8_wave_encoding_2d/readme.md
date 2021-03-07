@@ -1,4 +1,4 @@
-## Guide to Generating Results
+## Guide for Replicating Experiments in Figure 8
 
 #### 0.   Downloading the dataset
 
