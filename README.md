@@ -6,6 +6,8 @@ SPARK trains a convolutional-neural-network to estimate k-space errors made by a
 
 Self-contained code and instructions to generate each of the figures can be found in the folders for each figure.
 
+The dependencies of the conda enviornment used to run these experiments can be found in **requirements.txt** and can be used to create an identical enviornment to run experiments. 
+
 ## Figure 4: Pseudo-replica esque Technique for Evaluating SPARK and GRAPPA
 
 Applies a process similar to the pseudo replica technique desribed in "Comprehensive Quantification of Signal-to-Noise Ratio and g-Factor for Image-Based and k-Space-Based Parallel Imaging Reconstructions" to compare GRAPPA and SPARK reconstructions on a single axial slice from an MPRAGE acquisition.  
