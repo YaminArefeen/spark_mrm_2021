@@ -10,4 +10,4 @@ Running the script **gen_figure.m** in the directory **results/gen_figure.m** sh
 
 ### Figure in Manuscript
 
-
+![Alt text](../docs/images/residual_raki_with_spark.png?raw=True "spark_with_rraki")
