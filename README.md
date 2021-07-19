@@ -43,7 +43,7 @@ Spark applied to a 3D GRE acquisition with undersampling in the phase-encode and
 
 Spark applied to a 3D GRE acquisition with undersampling in the phase-encode and partition-encode dimensions.  Now, we asssume that our acquisition does not contain an integrated ACS region.  Instead, we assume that the ACS region has been under-sampled and reconstructing using GRAPPA kernels trained on some external reference scan.
 
-![Alt text](docs/images/externalacs.png?raw=True "external3d")
+![Alt text](docs/images/externalacs_reg.png?raw=True "external3d")
 
 ## Figure 9: SPARK with 2D wave-encoding
 
