@@ -1,4 +1,4 @@
-## Guide to performing Experiments for Figure 5
+## Guide to performing Experiments for Figure 6
 
 #### 1.   Preparing data for SPARK
 
@@ -12,6 +12,6 @@ Running the notebooks **loraks_spark.ipynb** and **svcgrappa_spark.ipynb** will 
 
 ### Figure in Manuscript
 
-Following the above procedure while varying **Rx** produces the results for Figure 5 in the manuscript:
+Following the above procedure while varying **Rx** produces the results for Figure 6 in the manuscript (with a comparison to a couple of residual-RAKI reconstructions):
 
-![Alt text](../docs/images/potential_figure_R5R6_loraks_vc.png?raw=True "loraksvc")
+![Alt text](../docs/images/potential_figure_R5R6_rraki_loraks_vc.png?raw=True "loraksvc")
