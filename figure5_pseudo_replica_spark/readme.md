@@ -1,4 +1,4 @@
-## Guide to performing experiments for Figure 4:
+## Guide to performing experiments for Figure 5:
 
 #### 1.     Preparing data for SPARK
 
