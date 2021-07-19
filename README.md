@@ -26,7 +26,7 @@ Spark applied to a 3D GRE acquisition with undersampling in the phase-encode and
 
 ![Alt text](docs/images/integratedacs.png?raw=True "integrated3d")
 
-## Figure 8: 3D SPARK without an Integrated Acs Region
+## Supporting Figure 8: 3D SPARK without an Integrated Acs Region
 
 Spark applied to a 3D GRE acquisition with undersampling in the phase-encode and partition-encode dimensions.  Now, we asssume that our acquisition does not contain an integrated ACS region.  Instead, we assume that the ACS region has been under-sampled and reconstructing using GRAPPA kernels trained on some external reference scan.
 
