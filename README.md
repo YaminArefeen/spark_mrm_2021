@@ -8,6 +8,12 @@ Self-contained code and instructions to generate each of the figures can be foun
 
 The dependencies of the conda enviornment used to run these experiments can be found in **requirements.txt** and can be used to create an identical enviornment to run experiments. 
 
+## Figure 3: Comparison between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI
+
+This figure illustrates comparisons between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI for varying acceleration rates and ACS sizes.
+
+[Alt text](docs/images/residual_raki_comparison.png?raw=True "spark_raki_rraki")
+
 ## Figure 5: Pseudo-replica esque Technique for Evaluating SPARK and GRAPPA
 
 Applies a process similar to the pseudo replica technique desribed in "Comprehensive Quantification of Signal-to-Noise Ratio and g-Factor for Image-Based and k-Space-Based Parallel Imaging Reconstructions" to compare GRAPPA and SPARK reconstructions on a single axial slice from an MPRAGE acquisition.  
