@@ -1,4 +1,4 @@
-## Guide for Replicating Experiments in Figure 9
+## Guide for Replicating Experiments in Figure 10
 
 #### 0.   Downloading the dataset
 
@@ -20,6 +20,6 @@ In the **wave_3d_slicegroup.ipynb** notebook, the following parameters can be se
 
 Then, running the notebook will produce comparisons between cartesian SENSE, cartesian SENSE + SPARK, generalized wave-encoding, and generalized wave-encoding + SPARK.
 
-Figure 9 was generated with the following parameters to compare reconstruction fidelity at Ry x Rz = 5 x 3: **beginningSliceIndex** = 10, **numslices_all** = 4, **fovshift** = 3, **Ry** = 5, **acsy** = 30
+Figure 10 was generated with the following parameters to compare reconstruction fidelity at Ry x Rz = 5 x 3: **beginningSliceIndex** = 10, **numslices_all** = 4, **fovshift** = 3, **Ry** = 5, **acsy** = 30
 
 ![Alt text](../docs/images/wave2d.png?raw=True "wave3d")
