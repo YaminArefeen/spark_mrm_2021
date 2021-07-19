@@ -8,17 +8,18 @@ Self-contained code and instructions to generate each of the figures can be foun
 
 The dependencies of the conda enviornment used to run these experiments can be found in **requirements.txt** and can be used to create an identical enviornment to run experiments. 
 
+## Figure 3: Comparison between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI
+
+This figure illustrates comparisons between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI for varying acceleration rates and ACS sizes.
+
+![Alt text](docs/images/residual_raki_comparison.png?raw=True "spark_raki_rraki")
+
 ## Figure 4: Applying SPARK to residual-RAKI
 
 SPARK applied to the residual-RAKI technique to improve reconstruction quality; suggesting that the two techniques might actually synergize.
 
 ![Alt text](docs/images/residual_raki_with_spark.png?raw=True "spark_with_rraki")
 
-## Figure 3: Comparison between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI
-
-This figure illustrates comparisons between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI for varying acceleration rates and ACS sizes.
-
-![Alt text](docs/images/residual_raki_comparison.png?raw=True "spark_raki_rraki")
 
 ## Figure 5: Pseudo-replica esque Technique for Evaluating SPARK and GRAPPA
 
