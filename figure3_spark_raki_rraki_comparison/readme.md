@@ -22,4 +22,5 @@ Run the script **gen_figure.m** in the directory **results/genfigure.m** to gene
 
 ### Figure in manuscript
 
+![Alt text](docs/images/residual_raki_comparison.png?raw=True "spark_raki_rraki")
 
