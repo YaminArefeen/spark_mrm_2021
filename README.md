@@ -12,7 +12,7 @@ The dependencies of the conda enviornment used to run these experiments can be f
 
 SPARK applied to the residual-RAKI technique to improve reconstruction quality; suggesting that the two techniques might actually synergize.
 
-![Alt text](docs/images/spark_with_residual_raki.png?raw=True "spark_with_rraki")
+![Alt text](docs/images/residual_raki_with_spark.png?raw=True "spark_with_rraki")
 
 ## Figure 3: Comparison between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI
 
