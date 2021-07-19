@@ -12,7 +12,7 @@ The dependencies of the conda enviornment used to run these experiments can be f
 
 This figure illustrates comparisons between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI for varying acceleration rates and ACS sizes.
 
-[Alt text](docs/images/residual_raki_comparison.png?raw=True "spark_raki_rraki")
+![Alt text](docs/images/residual_raki_comparison.png?raw=True "spark_raki_rraki")
 
 ## Figure 5: Pseudo-replica esque Technique for Evaluating SPARK and GRAPPA
 
