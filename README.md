@@ -31,7 +31,7 @@ Applies a process similar to the pseudo replica technique desribed in "Comprehen
 
 SPARK applied to LORAKS and virtual-coil GRAPPA on a single axial slice from an MPRAGE acquisition; demonstrating how SPARK synergizes with advanced 2D parallel imaging techniques.
 
-![Alt text](docs/images/potential_figure_R5R6_loraks_vc.png?raw=True "loraksvc")
+![Alt text](docs/images/potential_figure_R5R6_rraki_loraks_vc.png?raw=True "loraksvc")
 
 ## Figure 7: 3D SPARK with an Integrated ACS Region
 
