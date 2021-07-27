@@ -2,11 +2,13 @@
 
 Written by Yamin Arefeen.  Please feel free to contact me and ask questions through email at yarefeen@mit.edu.
 
-SPARK trains a convolutional-neural-network to estimate k-space errors made by an input reconstruction technique by back-propagating from the mean-squared-error loss between an auto-calibration signal (ACS) and the input technique’s reconstructed ACS.  In this repository, we provide the code and data used to generate Figures 4-9.  The associated data for Figures 6-9 can be downloaded from https://www.dropbox.com/sh/zveq2tfh7mgr9qk/AABSuSM23QOFVAe0SJ9oBIm6a?dl=0.  
+SPARK trains a convolutional-neural-network to estimate k-space errors made by an input reconstruction technique by back-propagating from the mean-squared-error loss between an auto-calibration signal (ACS) and the input technique’s reconstructed ACS.  In this repository, we provide the code and data used to generate Figures 3-10.  The associated data for Figures 7-10 can be downloaded from https://www.dropbox.com/sh/zveq2tfh7mgr9qk/AABSuSM23QOFVAe0SJ9oBIm6a?dl=0.  
 
 Self-contained code and instructions to generate each of the figures can be found in the folders for each figure.
 
 The dependencies of the conda enviornment used to run these experiments can be found in **requirements.txt** and can be used to create an identical enviornment to run experiments. 
+
+The RAKI and residual-RAKI code was adapted from https://github.com/zczam/RAKI.
 
 ## Figure 3: Comparison between GRAPPA, GRAPPA + SPARK, RAKI, and residual-RAKI
 
